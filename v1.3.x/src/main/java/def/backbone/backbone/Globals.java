@@ -10,7 +10,6 @@ public final class Globals {
     native public static JQueryXHR ajax(JQueryAjaxSettings options);
     public static Boolean emulateHTTP;
     public static Boolean emulateJSON;
-    native public static Backbone noConflict();
     public static JQueryStatic $;
     native public static Object sync(String method, Model model);
     native public static JQueryXHR ajax();
