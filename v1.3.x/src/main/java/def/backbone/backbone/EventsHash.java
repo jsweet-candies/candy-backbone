@@ -6,7 +6,7 @@ public abstract class EventsHash extends def.js.Object {
     /** This is an automatically generated object type (see the source definition). */
     @jsweet.lang.ObjectType
     public static class $get extends def.js.Object {
-        native public void apply(JQueryEventObject eventObject);
+        native public void $apply(JQueryEventObject eventObject);
     }
 }
 
